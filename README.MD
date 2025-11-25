@@ -8,7 +8,6 @@
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-*Note: Replace this image with a screenshot of your running dashboard*
 
 ---
 
@@ -171,7 +170,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 **Your Name**  
-[LinkedIn Profile](https://linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username)
+[LinkedIn Profile](https://www.linkedin.com/in/saadhan-p/) | [GitHub Profile](https://github.com/your-username)
 
 ---
 
